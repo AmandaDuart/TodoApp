@@ -1,4 +1,4 @@
-const TarefasDAO = require('../../../config/DAO/TarefasDAO');
+const TarefasDAO = require('../../config/DAO/TarefasDAO');
 const db = require('../../config/database/database');
 
 const tarefasDAO = new TarefasDAO(db);/* instancia do dão*/

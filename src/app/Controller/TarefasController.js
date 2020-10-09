@@ -1,4 +1,4 @@
-const TarefasModel= require('./Model/TarefasModel');//import class
+const TarefasModel= require('../Model/TarefasModel');//import class
 
 class TarefasController{
     constructor(){
