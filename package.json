@@ -4,7 +4,8 @@
   "description": "",
   "main": "servidor.js",
   "dependencies": {
-    "app": "^0.1.0"
+    "app": "^0.1.0",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {
     "express": "^4.17.1"
